@@ -1,5 +1,5 @@
 ---
-title: "Curriculo"
+title: "Amanda Carneiro Senior C#.NET Developer"
 date: 2021-10-12T14:38:24-03:00
 draft: false
 ---

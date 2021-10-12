@@ -10,13 +10,13 @@ disableKinds = ["taxonomyTerm"]
     min = '0.80.0'
 
 [params]
-  dateFormat = "2006-01-02" 
-  author = "Firstname Lastname"
-  description = "My awesome blog"
+  dateFormat = "2021-01-02" 
+  author = "Amanda Carneiro"
+  description = "Personal Blog and information"
   mainImage = "images/main.jpeg"
 
 [params.introduction]
-   text = "**This website** is my blog. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+   text = "**This website** is my blog. I started my career in 2013 as a software and hardware developer, and I’m currently assigned as a C# .NET senior developer and Product Owner for web applications with marketing integration.  use Azure as the software to create backlogs, user stories and manage issues. I have been working for various teams with different projects, gaining experience with different technologies. Mostly related to developing and managing projects, application maintenance and business solutions. I also have a strong motivation to encourage women in tech, reason why I push myself into leadership and technical development."
 
 [params.social]
   [[params.social.list]]
@@ -40,4 +40,4 @@ disableKinds = ["taxonomyTerm"]
   url = "#"  
 
 [params.footer]
-  message = "&copy; 2018 Name"
+  message = "&copy; 2021 Amanda Carneiro"
