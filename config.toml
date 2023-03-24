@@ -13,7 +13,7 @@ disableKinds = ["taxonomyTerm"]
   dateFormat = "2021-01-02" 
   author = "Amanda Carneiro Muller"
   description = "Personal information"
-  mainImage = "images/main.jpeg"
+  mainImage = ""
 
 [params.introduction]
    text = "Here you can find more about me"
@@ -22,12 +22,12 @@ disableKinds = ["taxonomyTerm"]
   [[params.social.list]]
   class = "fab"
   icon = "fa-linkedin-in"
-  url = "#https://www.linkedin.com/in/carneiro-amanda"
+  url = "https://www.linkedin.com/in/carneiro-amanda"
 
   [[params.social.list]]
   class = "fab"
   icon = "fa-github"
-  url = "#https://github.com/amandacarneiro/"
+  url = "https://github.com/amandacarneiro/"
     
 
 [params.footer]
