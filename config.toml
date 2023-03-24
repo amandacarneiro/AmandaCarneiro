@@ -11,7 +11,7 @@ disableKinds = ["taxonomyTerm"]
 
 [params]
   dateFormat = "2021-01-02" 
-  author = "Amanda Carneiro"
+  author = "Amanda Carneiro Muller"
   description = "Personal information"
   mainImage = "images/main.jpeg"
 
