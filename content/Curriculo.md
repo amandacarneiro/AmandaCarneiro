@@ -3,7 +3,7 @@ title: "Amanda Carneiro Muller"
 draft: false
 ---
 
-## Senior Software Engineer
+### Senior Software Engineer
 ## Professional Skills Document
 
 ### Professional Summary
@@ -74,7 +74,7 @@ Methodology: Agile
 
   
 
-## MAIN ACCOMPLISHMENTS
+### MAIN ACCOMPLISHMENTS
 
 -   I started the analysis and implementation for accessibility in the product I work with, created material and lectures about the subject to motivate developers on creating accessible platforms. I also implemented an accessibility pipeline to the CI/CD process.
     
@@ -95,7 +95,7 @@ Projects were developed in C#.Net with Databases in SQL Server, MongoDB or Postg
 
 Methodology: Agile Scrum
 
-## MAIN ACCOMPLISHMENTS
+### MAIN ACCOMPLISHMENTS
 
 -   I developed a platform for business partners acquisition, with administration features such as automatic email sanding, reports and quality control.
     
@@ -114,7 +114,7 @@ Methodology: Agile Scrum
 
   
 
-## MAIN ACCOMPLISHMENTS
+### MAIN ACCOMPLISHMENTS
 
 -   Developer of Zendesk and AWS Amazon Connect integrations to enable support teams to use both the Salesforce and Zendesk customer base.
     
@@ -133,13 +133,10 @@ I was a C# .Net developer at Leadlovers, workin on a SAS project with emphasis i
 
   
 
-### NCE | Curitiba, PR
+## NCE | Curitiba, PR
 
 03/2013 – 10/2015
 
 Role: Laboratory manager
 
 Building Hardware and Software projects. The main goal of the applications was to use microcontrollers such as Arduino, Raspberry Pi, ARM, Lora and ZigBee to build independent systems. From using brain waves to control small devices to elevator functional models.
-
-
-
