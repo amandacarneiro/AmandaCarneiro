@@ -1,6 +1,6 @@
 baseURL = "https://amandacarneiro.netlify.com"
 languageCode = "en-us"
-title = "Amanda Carneiro"
+title = "Amanda Carneiro Muller"
 theme = "mero"
 disableKinds = ["taxonomyTerm"]
 
@@ -12,32 +12,23 @@ disableKinds = ["taxonomyTerm"]
 [params]
   dateFormat = "2021-01-02" 
   author = "Amanda Carneiro"
-  description = "Personal Blog and information"
+  description = "Personal information"
   mainImage = "images/main.jpeg"
 
 [params.introduction]
-   text = "**This website** is my blog. I started my career in 2013 as a software and hardware developer, and I’m currently assigned as a C# .NET senior developer and Product Owner for web applications with marketing integration.  use Azure as the software to create backlogs, user stories and manage issues. I have been working for various teams with different projects, gaining experience with different technologies. Mostly related to developing and managing projects, application maintenance and business solutions. I also have a strong motivation to encourage women in tech, reason why I push myself into leadership and technical development."
+   text = "Here you can find more about me"
 
 [params.social]
   [[params.social.list]]
   class = "fab"
   icon = "fa-linkedin-in"
-  url = "#"
+  url = "#https://www.linkedin.com/in/carneiro-amanda"
 
   [[params.social.list]]
   class = "fab"
   icon = "fa-github"
-  url = "#"
-
-  [[params.social.list]]
-  class = "fab"
-  icon = "fa-twitter"
-  url = "#"
-
-  [[params.social.list]]
-  class = "fab"
-  icon = "fa-stack-overflow"
-  url = "#"  
+  url = "#https://github.com/amandacarneiro/"
+    
 
 [params.footer]
-  message = "&copy; 2021 Amanda Carneiro"
+  message = "&copy; 2023 Amanda Carneiro Muller"
